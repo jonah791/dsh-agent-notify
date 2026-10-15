@@ -1,0 +1,4 @@
+- insert:
+    - id: agent-notify
+      name: dsh-agent-notify
+      config: {}
